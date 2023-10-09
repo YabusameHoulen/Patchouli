@@ -295,3 +295,4 @@ move(face_detail_x,face_detail_y)
 move(lefteye_x,lefteye_y)
 move(righteye_x,righteye_y)
 turtle.done()
+### 你好
